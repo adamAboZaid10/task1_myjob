@@ -39,7 +39,10 @@ class _HomeViewBodyState extends State<HomeViewBody>
         child: Column(
           children: [
             const SizedBox(
-              height: 12,
+              height: 6,
+            ),
+            const SizedBox(
+              height: 6,
             ),
             const CustomNameAndWrite(),
             const SizedBox(
